@@ -16,7 +16,7 @@
 
 package com.pdrogfer.mididroid.util;
 
-import com.leff.midi.event.MidiEvent;
+import com.pdrogfer.mididroid.event.MidiEvent;
 
 public interface MidiEventListener
 {

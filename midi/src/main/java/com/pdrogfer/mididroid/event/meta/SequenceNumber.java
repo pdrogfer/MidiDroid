@@ -19,8 +19,8 @@ package com.pdrogfer.mididroid.event.meta;
 import java.io.IOException;
 import java.io.OutputStream;
 
-import com.leff.midi.event.MidiEvent;
-import com.leff.midi.util.VariableLengthInt;
+import com.pdrogfer.mididroid.event.MidiEvent;
+import com.pdrogfer.mididroid.util.VariableLengthInt;
 
 public class SequenceNumber extends MetaEvent
 {

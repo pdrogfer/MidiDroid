@@ -3,12 +3,12 @@ package com.pdrogfer.mididroid.examples;
 import java.io.File;
 import java.io.IOException;
 
-import com.leff.midi.MidiFile;
-import com.leff.midi.event.MidiEvent;
-import com.leff.midi.event.NoteOn;
-import com.leff.midi.event.meta.Tempo;
-import com.leff.midi.util.MidiEventListener;
-import com.leff.midi.util.MidiProcessor;
+import com.pdrogfer.mididroid.MidiFile;
+import com.pdrogfer.mididroid.event.MidiEvent;
+import com.pdrogfer.mididroid.event.NoteOn;
+import com.pdrogfer.mididroid.event.meta.Tempo;
+import com.pdrogfer.mididroid.util.MidiEventListener;
+import com.pdrogfer.mididroid.util.MidiProcessor;
 
 public class EventPrinter implements MidiEventListener
 {

@@ -24,13 +24,13 @@ import java.lang.reflect.Method;
 import java.util.Iterator;
 import java.util.TreeSet;
 
-import com.leff.midi.event.MidiEvent;
-import com.leff.midi.event.NoteOn;
-import com.leff.midi.event.meta.EndOfTrack;
-import com.leff.midi.event.meta.Tempo;
-import com.leff.midi.event.meta.TimeSignature;
-import com.leff.midi.util.MidiUtil;
-import com.leff.midi.util.VariableLengthInt;
+import com.pdrogfer.mididroid.event.MidiEvent;
+import com.pdrogfer.mididroid.event.NoteOn;
+import com.pdrogfer.mididroid.event.meta.EndOfTrack;
+import com.pdrogfer.mididroid.event.meta.Tempo;
+import com.pdrogfer.mididroid.event.meta.TimeSignature;
+import com.pdrogfer.mididroid.util.MidiUtil;
+import com.pdrogfer.mididroid.util.VariableLengthInt;
 
 public class MidiTrack
 {

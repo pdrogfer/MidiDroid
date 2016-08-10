@@ -3,7 +3,7 @@ package com.pdrogfer.mididroid.event.meta;
 import java.io.IOException;
 import java.io.OutputStream;
 
-import com.leff.midi.event.MidiEvent;
+import com.pdrogfer.mididroid.event.MidiEvent;
 
 public class GenericMetaEvent extends MetaEvent
 {

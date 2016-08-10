@@ -1,7 +1,7 @@
 package com.pdrogfer.mididroid.util;
 
-import com.leff.midi.event.MidiEvent;
-import com.leff.midi.event.meta.TimeSignature;
+import com.pdrogfer.mididroid.event.MidiEvent;
+import com.pdrogfer.mididroid.event.meta.TimeSignature;
 
 /**
  * An event specifically for MidiProcessor to broadcast metronome ticks so that

@@ -25,7 +25,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 
-import com.leff.midi.util.MidiUtil;
+import com.pdrogfer.mididroid.util.MidiUtil;
 
 public class MidiFile
 {
