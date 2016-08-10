@@ -15,7 +15,7 @@ allprojects {
 		}
 	}
 ```
-**Step 2**. Add the dependency:
+**Step 2**. Add the dependency in your module build.gradle:
 ```
 dependencies {
         compile 'com.github.pdrogfer:MidiDroid:v1.0'
