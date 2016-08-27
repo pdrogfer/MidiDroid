@@ -1,4 +1,4 @@
-# MidiDroid [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MidiDroid-green.svg?style=true)](https://android-arsenal.com/details/1/4195)
+# MidiDroid [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MidiDroid-green.svg?style=true)](https://android-arsenal.com/details/1/4195) [![](https://jitpack.io/v/pdrogfer/MidiDroid.svg)](https://jitpack.io/#pdrogfer/MidiDroid)
 MIDI library for Android, ready to use in Android Studio projects.
 
 ### Description
