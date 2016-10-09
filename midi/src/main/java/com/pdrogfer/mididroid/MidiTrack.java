@@ -165,7 +165,7 @@ public class MidiTrack
     {
 
         insertEvent(new NoteOn(tick, channel, pitch, velocity));
-        insertEvent(new NoteOn(tick + duration, channel, pitch, 0));
+        insertEvent(new NoteOff(tick + duration, channel, pitch, 0));
     }
 
     @SuppressWarnings({ "rawtypes", "unchecked" })
