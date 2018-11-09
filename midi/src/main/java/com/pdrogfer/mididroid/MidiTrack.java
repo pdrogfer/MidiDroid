@@ -25,6 +25,7 @@ import java.util.Iterator;
 import java.util.TreeSet;
 
 import com.pdrogfer.mididroid.event.MidiEvent;
+import com.pdrogfer.mididroid.event.NoteOff;
 import com.pdrogfer.mididroid.event.NoteOn;
 import com.pdrogfer.mididroid.event.meta.EndOfTrack;
 import com.pdrogfer.mididroid.event.meta.Tempo;
