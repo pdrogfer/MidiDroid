@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id 'maven-publish'
 }
 
 android {
@@ -12,7 +13,7 @@ android {
         minSdk 15
         targetSdk 33
         versionCode 3
-        versionName "1.2.1"
+        versionName "1.2.5"
     }
 
     buildTypes {
@@ -29,6 +30,19 @@ android {
 
     kotlinOptions {
         jvmTarget = '11'
+    }
+}
+
+publishing {
+    publications {
+        maven(MavenPublication) {
+            groupId = 'com.pdrogfer'
+            artifactId = 'mididroid'
+            version = "1.2.5"
+            pom {
+                description = 'A pure Java library for Midi'
+            }
+        }
     }
 }
 
