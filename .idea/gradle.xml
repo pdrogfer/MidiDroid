@@ -11,7 +11,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/midi" />
+            <option value="$PROJECT_DIR$/mididroid" />
+            <option value="$PROJECT_DIR$/sampleapp" />
           </set>
         </option>
       </GradleProjectSettings>
