@@ -12,8 +12,8 @@ android {
         applicationId "com.pdrogfer.mididroid"
         minSdk 24
         targetSdk 33
-        versionCode 3
-        versionName "1.2.5"
+        versionCode 5
+        versionName "1.2.7"
     }
 
     buildTypes {
@@ -38,7 +38,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'com.pdrogfer'
             artifactId = 'mididroid'
-            version = "1.2.5"
+            version = "1.2.7"
             pom {
                 description = 'A pure Java library for Midi'
             }
