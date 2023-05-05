@@ -3,10 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/MidiDroid.iml" filepath="$PROJECT_DIR$/.idea/modules/MidiDroid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/midi/MidiDroid.midi.iml" filepath="$PROJECT_DIR$/.idea/modules/midi/MidiDroid.midi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/midi/MidiDroid.midi.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/midi/MidiDroid.midi.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/midi/MidiDroid.midi.main.iml" filepath="$PROJECT_DIR$/.idea/modules/midi/MidiDroid.midi.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/midi/MidiDroid.midi.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/midi/MidiDroid.midi.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mididroid/MidiDroid.mididroid.iml" filepath="$PROJECT_DIR$/.idea/modules/mididroid/MidiDroid.mididroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mididroid/MidiDroid.mididroid.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mididroid/MidiDroid.mididroid.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mididroid/MidiDroid.mididroid.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mididroid/MidiDroid.mididroid.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/midi/MidiDroid.sampleapp.iml" filepath="$PROJECT_DIR$/.idea/modules/midi/MidiDroid.sampleapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sampleapp/MidiDroid.sampleapp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sampleapp/MidiDroid.sampleapp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sampleapp/MidiDroid.sampleapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sampleapp/MidiDroid.sampleapp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sampleapp/MidiDroid.sampleapp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sampleapp/MidiDroid.sampleapp.unitTest.iml" />
     </modules>
   </component>
 </project>
