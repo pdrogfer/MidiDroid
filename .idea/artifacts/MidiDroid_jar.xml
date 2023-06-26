@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MidiDroid:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MidiDroid_jar</output-path>
+    <root id="archive" name="MidiDroid.jar">
+      <element id="module-output" name="MidiDroid" />
+    </root>
+  </artifact>
+</component>
